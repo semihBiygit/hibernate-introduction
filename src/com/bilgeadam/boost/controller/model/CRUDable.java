@@ -1,8 +1,10 @@
-package com.bilgeadam.boost.hibernate;
+package com.bilgeadam.boost.controller.model;
 
 import java.util.ArrayList;
 
 import org.hibernate.Session;
+
+import com.bilgeadam.boost.hibernate.HibernateUtil;
 
 /**
  * C ==> CREATE (insert)
